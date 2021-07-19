@@ -1,0 +1,24 @@
+{
+    "name": "request-header-parser",
+    "version": "1.0.0",
+    "description": "A request header parser for fcc project",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "parser",
+        "express",
+        "node",
+        "fcc"
+    ],
+    "author": "Fabian Fleitas",
+    "license": "MIT",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.12"
+    }
+}
